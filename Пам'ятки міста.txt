@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LW2 1</title>
+</head>
+<body>
+    <h1>Подорож</h1>
+    <h3>Пам’ятки міста</h3>
+    <img src="sofia.jpg" alt="efeleva">
+    <h3> sofia </h3>
+    <p>Софійський собор, або Софія Київська — визначна пам'ятка історії та архітектури України, розташована на Софійській площі міста Києва.</p>
+    <ul>
+        <li>
+            <img src="efeleva.jpg" alt="efeleva">
+            <h3>ейфелева вежа</h3>
+            <p>Е́йфелева ве́жа (фр. la Tour Eiffel) — архітектурна пам'ятка Парижа, розміщена на Марсовому полі, символ сучасної Франції. Вежу названо на честь її конструктора Густава Ейфеля.</p>
+        </li>
+        <li>
+            <img src="losograda.jpg" alt="town">
+            <h3>Храм споку́ти Свято́го Сіме́йства</h3>
+            <p>Храм споку́ти Свято́го Сіме́йства, більше знаний як Храм Свято́го Сіме́йства (Храм Свято́ї Роди́ни) або за своєю каталанською назвою — Саґра́да Фамі́лія, — католицька церква в Барселоні. Її будівництво почалось 1882 року та триває донині. Храм розташований на північ від району Старе Місто в міському районі Ашямпла.</p>
+        </li>
+    </ul>
+    <button>Загрузити ще</button>
+    <ul>
+        <li><a href="https://www.facebook.com/">Facebook</a></li>
+        <li><a href="https://twitter.com/">Twitter</a></li>
+        <li><a href="https://telegram.im/">Telegram</a></li>
+    </ul>
+</body>
+</html>
