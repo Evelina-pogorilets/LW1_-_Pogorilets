@@ -1,146 +1,146 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LW2 2</title>
-    <link rel="stylesheet" href="./main.css">
-</head>
-<body>
-    <nav>
-        <ul>
-            <li><a href="">Sconsulting</a></li>
-            <li><a href="">Home</a></li>
-            <li><a href="">Product</a></li>
-            <li><a href="">Pricing</a></li>
-            <li><a href="">Contact</a></li>
-            <li><a href=""><img src="Vector.jpg" alt=""></a></li>
-            <li><a href=""><img src="Vector (1).jpg" alt=""></a></li>
-            <li><a href=""><img src="Vector (2).jpg" alt=""></a></li>
-        </ul>
-    </nav>
-    <header>
-        <div>
-            <h1>Finance and Consultancy Solution</h1>
-            <p>We know how large objects will act, but things on a small scale.</p>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>LW2 2</title>
+        <link rel="stylesheet" href="./main.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="">Sconsulting</a></li>
+                <li><a href="">Home</a></li>
+                <li><a href="">Product</a></li>
+                <li><a href="">Pricing</a></li>
+                <li><a href="">Contact</a></li>
+                <li><a href=""><img src="Vector.jpg" alt=""></a></li>
+                <li><a href=""><img src="Vector (1).jpg" alt=""></a></li>
+                <li><a href=""><img src="Vector (2).jpg" alt=""></a></li>
+            </ul>
+        </nav>
+        <header>
             <div>
-                <a href="">Get Quote Now</a>
-                <a href="">Learn More</a>
-            </div>
-        </div>
-        <div>
-            <img src="cover.jpg" alt="">
-        </div>
-    </header>
-    <section>
-        <div>
-            <h2>Industry</h2>
-            <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
-            <div>
-                <li><a href=""><img src="card-item.jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (1).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (2).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (3).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (4).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (5).jpg" alt=""></a></li>
-            </div>
-            <div>
-                <a href="">Get Quote Now</a>
-                <a href="">Learn More</a>
-            </div>
-        </div>
-    </section>
-    <section>
-        <div>
-            <h3>Who we are</h3>
-            <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
-            <div>
+                <h1>Finance and Consultancy Solution</h1>
+                <p>We know how large objects will act, but things on a small scale.</p>
                 <div>
-                    <img src="media bg-cover.jpg" alt="">
-                </div>
-                <div>
-                    <h4>Most trusted in our field</h4>
-                    <p>Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule.The quick fox jumps over the lazy dog.Things on a very small scale ...The quick fox jumps over the lazy dog.Things on a very small scale ...</p>
+                    <a href="">Get Quote Now</a>
+                    <a href="">Learn More</a>
                 </div>
             </div>
-        </div>
-    </section>
-    <section>
-        <div>
-            <h5>What Clients Say</h5>
-            <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
             <div>
-                <li><a href=""><img src="card-content.jpg" alt=""></a></li>
-                <li><a href=""><img src="card-content (1).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-content (2).jpg" alt=""></a></li>
+                <img src="cover.jpg" alt="">
             </div>
-        </div>
-    </section>
-    <section>
-        <div>
-            <h6>Meet Our Team</h6>
-            <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
+        </header>
+        <section>
             <div>
-                <li><a href=""><img src="card-item (6).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (7).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (8).jpg" alt=""></a></li>
-                <li><a href=""><img src="card-item (9).jpg" alt=""></a></li>
+                <h2>Industry</h2>
+                <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
+                <div>
+                    <li><a href=""><img src="card-item.jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (1).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (2).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (3).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (4).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (5).jpg" alt=""></a></li>
+                </div>
+                <div>
+                    <a href="">Get Quote Now</a>
+                    <a href="">Learn More</a>
+                </div>
             </div>
-        </div>
-    </section>
-    <section>
-        <div>
-            <h7>We Have Branches All Over The World</h7>
-            <p>The gradual accumulation of information about atomic and small-scale behaviour during the first quarter of the 20th century, which gave some indications about how small things do behave, produced an increasing confusion which was Heisenberg, and Born.</p>
-        </div>
-        <div>
-            <img src="pngwing 1.jpg" alt="">
-        </div>
-    </section>
-    <footer>
-        <div>
-            <ul>
-                <li>Get in touch</li>
-                <li>Domain</li>
-                <li>Share hosting</li>
-                <li>Cloud hosting</li>
-                <li>Private hosting</li>
-            </ul>
-        </div>
-        <div>
-            <ul>
-                <li>Hosting</li>
-                <p>the quick fox jumps over the lazy dog</p>
-            </ul>
-        </div>
-        <div>
-            <ul>
-                <li>Company info</li>
-                <p>About us</p>
-                <p>Carrier</p>
-                <p>We are hiring</p>
-                <p>Blog</p>
-            </ul>
-        </div>
-        <div>
-            <ul>
-                <li>Features</li>
-                <p>Business Marketing</p>
-                <p>User Anylic</p>
-                <p>Live Chat</p>
-                <p>Unlimited Support</p>
-            </ul>
-        </div>
-        <div>
-            <ul>
-                <li>Resources</li>
-                <p>IOS & Android</p>
-                <p>Watch a Demo</p>
-                <p>Customers</p>
-                <p>API</p>
-            </ul>
-        </div>
-    </footer>
-</body>
+        </section>
+        <section>
+            <div>
+                <h3>Who we are</h3>
+                <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
+                <div>
+                    <div>
+                        <img src="media bg-cover.jpg" alt="">
+                    </div>
+                    <div>
+                        <h4>Most trusted in our field</h4>
+                        <p>Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule.The quick fox jumps over the lazy dog.Things on a very small scale ...The quick fox jumps over the lazy dog.Things on a very small scale ...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div>
+                <h5>What Clients Say</h5>
+                <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
+                <div>
+                    <li><a href=""><img src="card-content.jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-content (1).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-content (2).jpg" alt=""></a></li>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div>
+                <h6>Meet Our Team</h6>
+                <p>Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics</p>
+                <div>
+                    <li><a href=""><img src="card-item (6).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (7).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (8).jpg" alt=""></a></li>
+                    <li><a href=""><img src="card-item (9).jpg" alt=""></a></li>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div>
+                <h7>We Have Branches All Over The World</h7>
+                <p>The gradual accumulation of information about atomic and small-scale behaviour during the first quarter of the 20th century, which gave some indications about how small things do behave, produced an increasing confusion which was Heisenberg, and Born.</p>
+            </div>
+            <div>
+                <img src="pngwing 1.jpg" alt="">
+            </div>
+        </section>
+        <footer>
+            <div>
+                <ul>
+                    <li>Get in touch</li>
+                    <li>Domain</li>
+                    <li>Share hosting</li>
+                    <li>Cloud hosting</li>
+                    <li>Private hosting</li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Hosting</li>
+                    <p>the quick fox jumps over the lazy dog</p>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Company info</li>
+                    <p>About us</p>
+                    <p>Carrier</p>
+                    <p>We are hiring</p>
+                    <p>Blog</p>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Features</li>
+                    <p>Business Marketing</p>
+                    <p>User Anylic</p>
+                    <p>Live Chat</p>
+                    <p>Unlimited Support</p>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li>Resources</li>
+                    <p>IOS & Android</p>
+                    <p>Watch a Demo</p>
+                    <p>Customers</p>
+                    <p>API</p>
+                </ul>
+            </div>
+        </footer>
+    </body>
 </html>
