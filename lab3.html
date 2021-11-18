@@ -67,11 +67,13 @@ button:hover
  </u> елементи.
 </p>
 <style>
-ul
+ul:not(:last-child)
  {
   background-color: blue;
   font-family: verdana;
   font-size: 300%;
+  padding: 5em;
+  margin: 10em;
  }
 u
  {
@@ -79,8 +81,13 @@ u
  }
 </style>
 <ul>
- <li>Home   Product   Contact</li>
- <li><u>info@.com   +380455578</u><li>
+ <li>Home</li>
+ <li>Product<li/>
+ <li>Contact</li>
+</ul>
+<ul>
+ <li><u>info@.com</u></li>   
+ <li><u>+380455578</u><li>
 </ul>
 
  
