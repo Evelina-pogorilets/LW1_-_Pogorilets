@@ -93,7 +93,7 @@ u
  <li1><u>info@.com</u></li1>   
  <li1><u>+380455578</u></li1>
 </ul2>
-<div class="card"> 
+<div class="card flex-start-aligned"> 
  <img
       src="https://st.depositphotos.com/1049691/4267/i/950/depositphotos_42674619-stock-photo-sweet-cake.jpg" 
       alt=""
@@ -138,6 +138,10 @@ u
  .card flex-start-aligned
  {
   align-self: auto;
+  padding: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
  }
 </style>
 <div class="container"> 
@@ -224,7 +228,7 @@ u
    justify-content: center;
    
   }
-  .kva
+  .kva:not(:last-child)
   {
    margin-right: 30px;
    background-color: white;
